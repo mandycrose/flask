@@ -2,4 +2,4 @@ flask
 jinja2
 django
 gunicorn
-django-heroku
+
